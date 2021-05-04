@@ -1,0 +1,9 @@
+﻿Scenario,Tillage,Yield,d_LUC_CI
+corn2013,conventional,sa,-1.8
+corn2013,reduced,sa,-2.2
+corn2013,no,sa,-3
+corn2013,us_average,sa,-2.3
+corn2013,conventional,sb,-0.3
+corn2013,reduced,sb,-0.5
+corn2013,no,sb,-1.2
+corn2013,us_average,sb,-0.6

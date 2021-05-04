@@ -1,0 +1,97 @@
+a.b,Depth,Initial,Tillage,Residue,Scenario
+a,30,Cropland,Conventional,0,1
+a,30,Cropland,Conventional,30,2
+a,30,Cropland,Reduced,0,3
+a,30,Cropland,Reduced,30,4
+a,30,Cropland,No,0,5
+a,30,Cropland,No,30,6
+a,30,Cropland,US Average,0,7
+a,30,Cropland,US Average,30,8
+a,30,Pasture,Conventional,0,13
+a,30,Pasture,Conventional,30,14
+a,30,Pasture,Reduced,0,15
+a,30,Pasture,Reduced,30,16
+a,30,Pasture,No,0,17
+a,30,Pasture,No,30,18
+a,30,Pasture,US Average,0,19
+a,30,Pasture,US Average,30,20
+a,30,Cropland-pasture,Conventional,0,37
+a,30,Cropland-pasture,Conventional,30,38
+a,30,Cropland-pasture,Reduced,0,39
+a,30,Cropland-pasture,Reduced,30,40
+a,30,Cropland-pasture,No,0,41
+a,30,Cropland-pasture,No,30,42
+a,30,Cropland-pasture,US Average,0,43
+a,30,Cropland-pasture,US Average,30,44
+b,30,Cropland,Conventional,0,1
+b,30,Cropland,Conventional,30,2
+b,30,Cropland,Reduced,0,3
+b,30,Cropland,Reduced,30,4
+b,30,Cropland,No,0,5
+b,30,Cropland,No,30,6
+b,30,Cropland,US Average,0,7
+b,30,Cropland,US Average,30,8
+b,30,Pasture,Conventional,0,13
+b,30,Pasture,Conventional,30,14
+b,30,Pasture,Reduced,0,15
+b,30,Pasture,Reduced,30,16
+b,30,Pasture,No,0,17
+b,30,Pasture,No,30,18
+b,30,Pasture,US Average,0,19
+b,30,Pasture,US Average,30,20
+b,30,Cropland-pasture,Conventional,0,37
+b,30,Cropland-pasture,Conventional,30,38
+b,30,Cropland-pasture,Reduced,0,39
+b,30,Cropland-pasture,Reduced,30,40
+b,30,Cropland-pasture,No,0,41
+b,30,Cropland-pasture,No,30,42
+b,30,Cropland-pasture,US Average,0,43
+b,30,Cropland-pasture,US Average,30,44
+a,100,Cropland,Conventional,0,1
+a,100,Cropland,Conventional,30,2
+a,100,Cropland,Reduced,0,3
+a,100,Cropland,Reduced,30,4
+a,100,Cropland,No,0,5
+a,100,Cropland,No,30,6
+a,100,Cropland,US Average,0,7
+a,100,Cropland,US Average,30,8
+a,100,Pasture,Conventional,0,13
+a,100,Pasture,Conventional,30,14
+a,100,Pasture,Reduced,0,15
+a,100,Pasture,Reduced,30,16
+a,100,Pasture,No,0,17
+a,100,Pasture,No,30,18
+a,100,Pasture,US Average,0,19
+a,100,Pasture,US Average,30,20
+a,100,Cropland-pasture,Conventional,0,37
+a,100,Cropland-pasture,Conventional,30,38
+a,100,Cropland-pasture,Reduced,0,39
+a,100,Cropland-pasture,Reduced,30,40
+a,100,Cropland-pasture,No,0,41
+a,100,Cropland-pasture,No,30,42
+a,100,Cropland-pasture,US Average,0,43
+a,100,Cropland-pasture,US Average,30,44
+b,100,Cropland,Conventional,0,1
+b,100,Cropland,Conventional,30,2
+b,100,Cropland,Reduced,0,3
+b,100,Cropland,Reduced,30,4
+b,100,Cropland,No,0,5
+b,100,Cropland,No,30,6
+b,100,Cropland,US Average,0,7
+b,100,Cropland,US Average,30,8
+b,100,Pasture,Conventional,0,13
+b,100,Pasture,Conventional,30,14
+b,100,Pasture,Reduced,0,15
+b,100,Pasture,Reduced,30,16
+b,100,Pasture,No,0,17
+b,100,Pasture,No,30,18
+b,100,Pasture,US Average,0,19
+b,100,Pasture,US Average,30,20
+b,100,Cropland-pasture,Conventional,0,37
+b,100,Cropland-pasture,Conventional,30,38
+b,100,Cropland-pasture,Reduced,0,39
+b,100,Cropland-pasture,Reduced,30,40
+b,100,Cropland-pasture,No,0,41
+b,100,Cropland-pasture,No,30,42
+b,100,Cropland-pasture,US Average,0,43
+b,100,Cropland-pasture,US Average,30,44

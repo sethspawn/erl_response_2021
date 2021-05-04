@@ -1,0 +1,25 @@
+﻿pathway,ef,landcover,ci,area_ha,notes
+corn2013,century,forest,0.78,-50916,calculated by applying the CCLUB total proration factor (0.7) by the total area of GTAP forest conversion (-331465)
+corn2013,century,grassland,-0.14,-639484,
+corn2013,century,cropland-pasture,-3.01,-1168943,
+corn2013,century,young forest-shrub,0.1,-13857,calculated by applying the CCLUB total proration factor (0.7) by the total area of GTAP forest conversion (-331465)
+corn2013,woodshole,forest,1.36,-64772,"Includes both CCLUB ""forest"" and ""YF-shrub"" classes"
+corn2013,woodshole,grassland,0.36,-92616,
+corn2013,woodshole,cropland-pasture,,-1788463,CCLUB appears to just drop cropland-pasture emissions when using the Woods Hole Efs
+corn2013,woodshole,young forest-shrub,,-13857,
+corn2013,winrock,forest,0.95,-64772,"Includes both CCLUB ""forest"" and ""YF-shrub"" classes"
+corn2013,winrock,grassland,0.11,-92616,
+corn2013,winrock,cropland-pasture,7.59,-1788463,
+corn2013,winrock,young forest-shrub,,,
+corn2011,century,forest,4.2,-265793,calculated by applying the CCLUB total proration factor (0.7) by the total area of GTAP forest conversion (-331465)
+corn2011,century,grassland,-0.9,-92616,
+corn2011,century,cropland-pasture,-1.88,-1788463,
+corn2011,century,young forest-shrub,0.52,-65672,calculated by applying the CCLUB total proration factor (0.7) by the total area of GTAP forest conversion (-331465)
+corn2011,woodshole,forest,6.94,"-331,465","Includes both CCLUB ""forest"" and ""YF-shrub"" classes"
+corn2011,woodshole,grassland,2.51,-92616,
+corn2011,woodshole,cropland-pasture,,-1788463,CCLUB appears to just drop cropland-pasture emissions when using the Woods Hole Efs
+corn2011,woodshole,young forest-shrub,,,
+corn2011,winrock,forest,4.84,"-331,465","Includes both CCLUB ""forest"" and ""YF-shrub"" classes"
+corn2011,winrock,grassland,0.76,-92616,
+corn2011,winrock,cropland-pasture,4.96,-1788463,
+corn2011,winrock,young forest-shrub,,,
